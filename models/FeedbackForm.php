@@ -7,7 +7,7 @@ use yii\base\Model;
 
 class FeedbackForm extends Model
 {
-	public $name;
+	public $name = 'fuker';
 	public $email;
 	public $feedback;
 

@@ -6,6 +6,6 @@
 ?>
 
 <?= 'WTF?'?>
-<?= print_r($variables) ?>
+<?= print_r($variables['name']) ?>
 
 
